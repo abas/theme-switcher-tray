@@ -21,3 +21,12 @@ cd theme-switcher-tray
 sudo sh install.sh
 ```
 #### Done~
+
+## Update Icon
+> Run update-logo.sh
+
+```
+sudo sh update-logo.sh
+```
+
+#### Done~
