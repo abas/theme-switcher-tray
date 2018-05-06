@@ -13,5 +13,11 @@ Just a little secret, this app can be an example for learning python Gtk+ 3 and 
 
 ```
 git clone https://github.com/abas/theme-switcher-tray.git
-cd 
+cd theme-switcher-tray
 ```
+> Run install.sh
+
+```
+sh install.sh
+```
+#### Done~
