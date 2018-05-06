@@ -37,7 +37,7 @@ echo ""
 
 echo "making documentation"
 # SHARE ##############################################
-cp $USR/share/doc/theme-switcher-tray $USR_ROOT/share/doc/
+cp -r $USR/share/doc/theme-switcher-tray $USR_ROOT/share/doc/
 
 echo ""
 echo ""
@@ -51,7 +51,7 @@ echo ""
 
 echo "finishing install"
 # THEME-SWITCHER-TRAY ################################
-cp $USR/share/theme-switcher $USR_ROOT/share
+cp -r $USR/share/theme-switcher $USR_ROOT/share/
 
 echo ""
 echo ""
