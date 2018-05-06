@@ -6,8 +6,8 @@ echo ""
 echo ""
 
 echo "defining var for execute"
-XDG=./etc/xdg
-USR=./usr
+XDG=./theme-switcher-tray/etc/xdg
+USR=./theme-switcher-tray/usr
 USR_BIN=$USR/bin
 USR_SHARE=$USR/share
 USR_ICONS=$USR/icons
