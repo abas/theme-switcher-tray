@@ -18,6 +18,6 @@ cd theme-switcher-tray
 > Run install.sh
 
 ```
-sh install.sh
+sudo sh install.sh
 ```
 #### Done~
