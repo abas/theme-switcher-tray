@@ -7,6 +7,6 @@
     <property name="DevIcon" type="string" value="Paper"/>
     <property name="NormalTheme" type="string" value="Tea-Light"/>
     <property name="NormalWindow" type="string" value="Tea-Light"/>
-    <property name="NormalIcon" type="string" value="Paper2"/>
+    <property name="NormalIcon" type="string" value="Paper"/>
   </property>
 </channel>
