@@ -36,8 +36,8 @@ cp -r $USR_SHARE/doc/theme-switcher-tray $USR_SHARE_ROOT/doc/
 
 echo "installing icons"
 # ICONS ##############################################
-rm -f $USR_ICONS_ROOT/hicolor/scalable/apps/theme-switcher-tray.svg
-cp $USR_ICONS/hicolor/scalable/apps/theme-switcher-tray.svg $USR_ICONS_ROOT/hicolor/scalable/apps/
+rm -f $USR_ICONS_ROOT/theme-switcher-tray.svg
+cp $USR_ICONS/theme-switcher-tray.svg $USR_ICONS_ROOT/
 
 echo "finishing install"
 # THEME-SWITCHER-TRAY ################################
