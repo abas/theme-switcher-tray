@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="55.062mm"
-   height="33mm"
-   viewBox="0 0 195.10156 116.92908"
+   width="500"
+   height="500"
+   viewBox="0 0 468.74995 468.74978"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="theme-switcher-tray.svg">
   <defs
      id="defs4">
@@ -39,9 +39,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="234.56801"
-     inkscape:cy="61.731657"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="36.12412"
+     inkscape:cy="203.70017"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,14 +57,15 @@
      inkscape:snap-midpoints="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="706"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-width="980"
+     inkscape:window-height="537"
+     inkscape:window-x="-191"
+     inkscape:window-y="51"
+     inkscape:window-maximized="0"
      inkscape:snap-global="false"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     units="px" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -81,10 +82,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-935.43312)">
+     transform="translate(0,-583.61236)">
     <g
        id="g827"
-       transform="matrix(1.2597445,0,0,1.2597445,-14.040791,-258.15949)">
+       transform="matrix(3.0266332,0,0,3.0266332,-33.732364,-2190.1765)">
       <rect
          ry="46.409847"
          y="947.48785"
