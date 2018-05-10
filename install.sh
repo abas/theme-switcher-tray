@@ -10,12 +10,12 @@ XDG=./theme-switcher-tray/etc/xdg
 USR=./theme-switcher-tray/usr
 USR_BIN=$USR/bin
 USR_SHARE=$USR/share
-USR_ICONS=$USR/icons
+USR_ICONS=$USR_SHARE/icons
 XDG_ROOT=/etc/xdg
 USR_ROOT=/usr
 USR_BIN_ROOT=$USR_ROOT/bin
 USR_SHARE_ROOT=$USR_ROOT/share
-USR_ICONS_ROOT=$USR_ROOT/icons
+USR_ICONS_ROOT=$USR_SHARE_ROOT/icons
 
 echo "deploying autostart"
 # XDG ################################################
@@ -24,19 +24,19 @@ cp $XDG/xdg-xubuntu/xfce4/xfconf/xfce-perchannel-xml/tealinux.xml $XDG_ROOT/xdg-
 
 echo "copying binary file"
 # BIN ################################################
-cp $USR/bin/theme-switcher-tray $USR_ROOT/bin/
+cp $USR_BIN/theme-switcher-tray $USR_BIN_ROOT/
 
 echo "making documentation"
 # SHARE ##############################################
-cp -r $USR/share/doc/theme-switcher-tray $USR_ROOT/share/doc/
+cp -r $USR_SHARE/doc/theme-switcher-tray $USR_SHARE_ROOT/doc/
 
 echo "installing icons"
 # ICONS ##############################################
-cp $USR/share/icons/hicolor/scalable/apps/theme-switcher-tray.svg $USR_ROOT/share/icons/hicolor/scalable/apps/
+cp $USR_ICONS/hicolor/scalable/apps/theme-switcher-tray.svg $USR_ICONS_ROOT/hicolor/scalable/apps/
 
 echo "finishing install"
 # THEME-SWITCHER-TRAY ################################
-cp -r $USR/share/theme-switcher $USR_ROOT/share/
+cp -r $USR_SHARE/theme-switcher $USR_SHARE_ROOT/
 
 echo "done~"
 
