@@ -3,7 +3,7 @@ import gi
 gi.require_version('Gtk', '3.0')
 from gi.repository import Gtk
 import os
-os.environ['DBUS_SESSION_BUS_ADDRESS'] = ""
+# os.environ['DBUS_SESSION_BUS_ADDRESS'] = ""
 import dbus
 
 
