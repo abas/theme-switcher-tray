@@ -41,7 +41,7 @@ cp $USR/share/icons/hicolor/scalable/apps/theme-switcher-tray.svg $USR_ROOT/shar
 
 echo "finishing install"
 # THEME-SWITCHER-TRAY ################################
-rm -rf $USR/share/theme-switcher
+rm -rf $USR_ROOT  /share/theme-switcher
 cp -r $USR/share/theme-switcher $USR_ROOT/share/
 
 echo "done~"
