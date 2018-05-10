@@ -23,10 +23,20 @@ sudo sh install.sh
 #### Done~
 
 ## Update Icon
+run this if you was update the logo **switcher**.
+
 > Run update-logo.sh
 
 ```
 sudo sh update-logo.sh
 ```
-
 #### Done~
+
+## Re-Install Switcher
+run this if you want to re-install **switcher**.
+
+> Run re-install.sh
+
+```
+sudo sh re-install.sh
+```
